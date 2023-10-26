@@ -1,4 +1,5 @@
 .ipynb_checkpoints
 *.zip
 raw_dataset/
+example_demo_dataset_processed
 .Trash-0
